@@ -1,0 +1,10 @@
+x = input("please enter you're name here: ")
+y = input("please enter you're surename here: ")
+z = x + (" ") + y
+c = input(z + " whats the reason that you msg'ed us: ")
+print("stand by mannager will talk to you shortly")
+print(z + "its the mannager, and i need ur number ")
+v = int(input("please insert you're number here: "))
+print("we will call you shortly about you're problem")
+b = input("please enter you're feedback: ")
+print("thank you!")
