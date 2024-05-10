@@ -7,5 +7,5 @@ else:
      print("Invalid Passwords!")
 
 passcode = input("please enter you're password here to enter: ")
-if passcode == passcode:
+if passcode == password:
      print ("accsess granted")
